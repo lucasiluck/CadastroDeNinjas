@@ -1,0 +1,52 @@
+[33mcommit dd4fba61c39665d9bb559a6273e706e80e435874[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAula2[m[33m)[m
+Merge: 075257e b286456
+Author: Lucas Carvalho <luucas_pg@hotmail.com.br>
+Date:   Tue Sep 16 20:43:57 2025 -0300
+
+    Merge branch 'Aula2' of https://github.com/lucasiluck/CadastroDeNinjas into Aula2
+
+[33mcommit 075257ed40a674661390ed405926642d17783be2[m
+Author: Lucas Carvalho <luucas_pg@hotmail.com.br>
+Date:   Tue Sep 16 14:14:16 2025 -0300
+
+    Modelagem do banco de dados, NinjaModel e MissoesModel concluidos, anotations feitas para relacionamento de tabelas
+
+[33mcommit b286456312900d57aba1530f1b9c099b72c71f36[m[33m ([m[1;31morigin/Aula2[m[33m)[m
+Merge: 3085b75 f00d1d0
+Author: Lucas Matheus Carvalho <123128295+lucasiluck@users.noreply.github.com>
+Date:   Mon Sep 15 20:19:29 2025 -0300
+
+    Merge branch 'main' into Aula2
+
+[33mcommit 3085b75bd3267d0935283ded3e961404fa27bf5c[m
+Author: Lucas Carvalho <luucas_pg@hotmail.com.br>
+Date:   Mon Sep 15 20:05:40 2025 -0300
+
+    Cria uma entidade no banco de dados a partir do NinjaModel
+
+[33mcommit f00d1d06c7c724982e6fa52f57777ce347a6c9ac[m
+Merge: 2c4290d a22d22e
+Author: Lucas Matheus Carvalho <123128295+lucasiluck@users.noreply.github.com>
+Date:   Mon Sep 15 20:06:48 2025 -0300
+
+    Merge pull request #7 from lucasiluck/Aula2
+    
+    Cria uma entidade no banco de dados a partir do NinjaModel
+
+[33mcommit a22d22eaed121c62854607b6ba8ae06e3d8fb8a1[m
+Author: Lucas Carvalho <luucas_pg@hotmail.com.br>
+Date:   Mon Sep 15 20:05:40 2025 -0300
+
+    Cria uma entidade no banco de dados a partir do NinjaModel
+
+[33mcommit 2c4290df5b39cdef08ebcf80d6217ea7ad746130[m[33m ([m[1;32mmain[m[33m)[m
+Author: Lucas Carvalho <luucas_pg@hotmail.com.br>
+Date:   Mon Sep 15 19:31:43 2025 -0300
+
+    Criado a Controller Aula2
+
+[33mcommit f814366f78006d69cc8f22e07d02133e3104e2cf[m
+Author: Lucas Carvalho <luucas_pg@hotmail.com.br>
+Date:   Mon Sep 15 18:45:37 2025 -0300
+
+    first commit
